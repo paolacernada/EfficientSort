@@ -1,4 +1,4 @@
-# Sorting-Algorithm-Comparison
+# EfficientSort
 
 In this personal project, I'll be exploring the efficiency of sorting algorithms by comparing their execution times. To accomplish this, I'll be utilizing the Python time and random modules, as well as the matplotlib package.
 
