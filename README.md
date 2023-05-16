@@ -6,7 +6,7 @@ In this personal project, I'll be exploring the efficiency of sorting algorithms
 
 To begin, make sure you have the following dependencies installed:
 
-    * matplotlib package
+    matplotlib package
     
  Next, import the necessary modules and functions:
  
